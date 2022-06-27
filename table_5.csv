@@ -1,0 +1,97 @@
+Burden of disease group,Burden of disease condition, Health system spending attributable to risk factors ($) , Total health system spending on burden of disease condition ($) ,Share of health system spending attributed to risk factors  (%)
+Infectious diseases,HIV/AIDS,342024940.00,371869321.00,92
+Infectious diseases,Syphilis,8733982.00,8733982.00,100
+Infectious diseases,Chlamydia,2781124.00,2781124.00,100
+Infectious diseases,Gonorrhoea,6943572.00,6943572.00,100
+Infectious diseases,Other sexually transmitted infections,60229029.00,60229029.00,100
+Infectious diseases,Hepatitis B (acute),36635810.00,79924624.00,45.8
+Infectious diseases,Hepatitis C (acute),560193031.00,735086963.00,76.2
+Infectious diseases,Otitis media,1840125.00,309942253.00,0.6
+Infectious diseases,Lower respiratory infections,373371179.00,1507256031.00,24.8
+Infectious diseases,Influenza,627505.00,153713080.00,0.4
+Infant and congenital conditions,Pre-term birth and low birth weight complications,555978192.00,555978192.00,100
+Cancer and other neoplasms,Laryngeal cancer,17002507.00,21615152.00,78.7
+Cancer and other neoplasms,Oesophageal cancer,72885154.00,90543321.00,80.5
+Cancer and other neoplasms,Stomach cancer,17208965.00,124932131.00,13.8
+Cancer and other neoplasms,Bowel cancer,546562851.00,1005500747.00,54.4
+Cancer and other neoplasms,Liver cancer,87203863.00,116277967.00,75
+Cancer and other neoplasms,Gallbladder cancer,7052433.00,28627103.00,24.6
+Cancer and other neoplasms,Pancreatic cancer,56121197.00,170872981.00,32.8
+Cancer and other neoplasms,Lung cancer,514512241.00,634006092.00,81.2
+Cancer and other neoplasms,Mesothelioma,16948759.00,27386875.00,61.9
+Cancer and other neoplasms,Melanoma of the skin,321484247.00,357204719.00,90
+Cancer and other neoplasms,Non-melanoma skin cancer,920634338.00,1315191911.00,70
+Cancer and other neoplasms,Breast cancer,388882543.00,1295320978.00,30
+Cancer and other neoplasms,Cervical cancer,50667183.00,50668235.00,100
+Cancer and other neoplasms,Uterine cancer,48246159.00,84519725.00,57.1
+Cancer and other neoplasms,Ovarian cancer,11923638.00,130099781.00,9.2
+Cancer and other neoplasms,Prostate cancer,52146752.00,1172153071.00,4.4
+Cancer and other neoplasms,Bladder cancer,50347487.00,137809889.00,36.5
+Cancer and other neoplasms,Kidney cancer,64937284.00,173740800.00,37.4
+Cancer and other neoplasms,Thyroid cancer,15520820.00,95131637.00,16.3
+Cancer and other neoplasms,Non-Hodgkin lymphoma,39467237.00,427185754.00,9.2
+Cancer and other neoplasms,Myeloma,35710140.00,341411464.00,10.5
+Cancer and other neoplasms,Lip and oral cavity cancer,51372870.00,75168911.00,68.3
+Cancer and other neoplasms,Nasopharyngeal cancer,8049820.00,13515987.00,59.6
+Cancer and other neoplasms,"Other lip, oral cavity and pharynx cancers",10148025.00,27342431.00,37.1
+Cancer and other neoplasms,Acute myeloid leukaemia (AML),23901862.00,105282201.00,22.7
+Cancer and other neoplasms,Chronic myeloid leukaemia (CML),23180444.00,110668748.00,20.9
+Cancer and other neoplasms,Acute lymphoblastic leukaemia (ALL),5060932.00,77852084.00,6.5
+Cancer and other neoplasms,Chronic lymphocytic leukaemia (CLL),28888277.00,119935763.00,24.1
+Cancer and other neoplasms,Other leukaemias,11526813.00,53880664.00,21.4
+Cardiovascular diseases,Coronary heart disease,2062408091.00,2338124050.00,88.2
+Cardiovascular diseases,Stroke,491850985.00,662293348.00,74.3
+Cardiovascular diseases,Rheumatic heart disease (incl. acute rheumatic fever),19048536.00,93164292.00,20.4
+Cardiovascular diseases,Non-rheumatic valvular disease,95595211.00,426176216.00,22.4
+Cardiovascular diseases,Hypertensive heart disease,41840177.00,59707274.00,70.1
+Cardiovascular diseases,Atrial fibrillation and flutter,682480859.00,1200866233.00,56.8
+Cardiovascular diseases,Inflammatory heart disease,6805447.00,127391091.00,5.3
+Cardiovascular diseases,Cardiomyopathy,42633770.00,147445600.00,28.9
+Cardiovascular diseases,Aortic aneurysm,59865249.00,164954781.00,36.3
+Cardiovascular diseases,Peripheral vascular disease,231720139.00,460942166.00,50.3
+Cardiovascular diseases,Other cardiovascular diseases,715137198.00,6036441838.00,11.8
+Respiratory diseases,Asthma,267919222.00,778111259.00,34.4
+Respiratory diseases,COPD,695462640.00,934899061.00,74.4
+Respiratory diseases,Silicosis,737395.00,737395.00,100
+Respiratory diseases,Asbestosis,15976755.00,15976755.00,100
+Respiratory diseases,Other pneumoconiosis,726263.00,733383.00,99
+Respiratory diseases,Other respiratory disease,181940710.00,1448493263.00,12.6
+Gastrointestinal disorders,Gastroduodenal disorders,26951461.00,272181057.00,9.9
+Gastrointestinal disorders,Chronic liver disease,76056681.00,189481654.00,40.1
+Gastrointestinal disorders,Gallbladder and bile duct disease,368290782.00,879828237.00,41.9
+Gastrointestinal disorders,Pancreatitis,21203005.00,191395294.00,11.1
+Neurological conditions,Epilepsy,45875421.00,308524872.00,14.9
+Neurological conditions,Dementia,205739330.00,478088753.00,43
+Neurological conditions,Multiple sclerosis,39874332.00,533185509.00,7.5
+Mental and substance use disorders,Depressive disorders,595177133.00,2055455374.00,29
+Mental and substance use disorders,Anxiety disorders,580747113.00,1786326025.00,32.5
+Mental and substance use disorders,Alcohol use disorders,495941728.00,495941728.00,100
+Mental and substance use disorders,Drug use disorders (excl. alcohol),620773787.00,623046012.00,99.6
+Mental and substance use disorders,Schizophrenia,32351889.00,1196161131.00,2.7
+Endocrine disorders,Type 1 diabetes,283976202.00,283976202.00,100
+Endocrine disorders,Type 2 diabetes,1541577945.00,1541577945.00,100
+Endocrine disorders,Other diabetes,648145042.00,648145042.00,100
+Kidney and urinary diseases,Chronic kidney disease,1753236103.00,1753236103.00,100
+Reproductive and maternal conditions,Early pregnancy loss,46535810.00,242971244.00,19.2
+Musculoskeletal disorders,Osteoarthritis,1109325932.00,3878345563.00,28.6
+Musculoskeletal disorders,Gout,104935915.00,202708415.00,51.8
+Musculoskeletal disorders,Rheumatoid arthritis,37960122.00,864046014.00,4.4
+Musculoskeletal disorders,Back pain and problems,796002835.00,3225677260.00,24.7
+Hearing and vision disorders,Hearing loss,34833023.00,418164225.00,8.3
+Hearing and vision disorders,Cataract,341154939.00,1514920234.00,22.5
+Hearing and vision disorders,Glaucoma,20042998.00,283675882.00,7.1
+Hearing and vision disorders,Age-related macular degeneration,24249932.00,468340671.00,5.2
+Blood and metabolic disorders,Iron-deficiency anaemia,277371915.00,277371915.00,100
+Injury (external cause),Road traffic injury - motorcyclists,49028429.00,157663833.00,31.1
+Injury (external cause),Road traffic injury  - motor vehicle occupants,118317238.00,468087308.00,25.3
+Injury (external cause),Other land transport injuries,89823211.00,357095575.00,25.2
+Injury (external cause),Poisoning,60505845.00,94885990.00,63.8
+Injury (external cause),Falls,1443148505.00,4011466405.00,36
+Injury (external cause),"Fire, burns and scalds",10899898.00,101870529.00,10.7
+Injury (external cause),Drowning,1080534.00,9849276.00,11
+Injury (external cause),Other unintentional injuries,343831588.00,2627714324.00,13.1
+Injury (external cause),Suicide and self-inflicted injuries,113119214.00,232919558.00,48.6
+Injury (external cause),Homicide and violence,128771457.00,393396944.00,32.7
+Injury (external cause),Road traffic injury  - pedal cyclists,31627939.00,127691690.00,24.8
+Injury (external cause),Road traffic injury  - pedestrians,12188961.00,55165014.00,22.1
+,All Burden of disease conditions,23589776174.00,60323342107.00,39.1
